@@ -1,4 +1,6 @@
 /* Includes ------------------------------------------------------------------*/
+// Rusty Morrison, 18Aug2016
+
 #include "NCD16Relay/NCD16Relay.h"
 
 NCD16Relay relayController;
